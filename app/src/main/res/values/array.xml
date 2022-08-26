@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array">
+        <item>Panne</item>
+        <item>Kanne</item>
+        <item>Kake</item>
+        <item>Penn</item>
+        <item>Sennep</item>
+        <item>Søke</item>
+        <item>Økse</item>
+        <item>Spane</item>
+        <item>Naken</item>
+        <item>Nese</item>
+        <item>Nakke</item>
+        <item>Nappe</item>
+        <item>Pakke</item>
+        <item>Anneks</item>
+        <item>Søpe</item>
+
+    </array>
+</resources>

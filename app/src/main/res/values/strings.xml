@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ordstjernen</string>
+    <string name="overskrift">Ordstjernen</string>
+    <string name="bokstav1">S</string>
+    <string name="bokstav2">Ø</string>
+    <string name="bokstav3">E</string>
+    <string name="bokstav4">K</string>
+    <string name="bokstav5">P</string>
+    <string name="bokstav6">A</string>
+    <string name="bokstav7">N</string>
+
+    <string name="tekstfelt">Hello</string>
+</resources>
