@@ -1,13 +1,21 @@
 <resources>
     <string name="app_name">Ordstjernen</string>
     <string name="overskrift">Ordstjernen</string>
-    <string name="bokstav1">S</string>
-    <string name="bokstav2">Ø</string>
-    <string name="bokstav3">E</string>
-    <string name="bokstav4">K</string>
-    <string name="bokstav5">P</string>
-    <string name="bokstav6">A</string>
-    <string name="bokstav7">N</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="N">N</string>
+    <string name="T">T</string>
+    <string name="P">P</string>
+    <string name="L">L</string>
+    <string name="A">A</string>
 
-    <string name="tekstfelt">Hello</string>
+    <string name="tekstfelt1">""</string>
+    <string name="countdown">15</string>
+    <string name="fasit">Fasit</string>
+    <string name="hint">Hint</string>
+    <string name="sjekk">Sjekk</string>
+    <string name="slett">Slett</string>
+    <string name="tekstcountdown">Ord igjen:</string>
+    <string name="hinttext">Hint:</string>
+    <string name="hintinput">""</string>
 </resources>

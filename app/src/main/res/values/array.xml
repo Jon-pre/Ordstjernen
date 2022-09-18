@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="array">
-        <item>Panne</item>
-        <item>Kanne</item>
-        <item>Kake</item>
-        <item>Penn</item>
-        <item>Sennep</item>
-        <item>Søke</item>
-        <item>Økse</item>
-        <item>Spane</item>
-        <item>Naken</item>
-        <item>Nese</item>
-        <item>Nakke</item>
-        <item>Nappe</item>
-        <item>Pakke</item>
-        <item>Anneks</item>
-        <item>Søpe</item>
+        <item>DENNE</item>
+        <item>PLEN</item>
+        <item>TEPPE</item>
+        <item>LENE</item>
+        <item>DETTE</item>
+        <item>PENN</item>
+        <item>TENNE</item>
+        <item>TENTE</item>
+        <item>PLANTE</item>
+        <item>NEDE</item>
+        <item>PANNE</item>
+        <item>LEDD</item>
+        <item>PENDLE</item>
+        <item>EPLE</item>
+        <item>ENDE</item>
+    </array>
+
+    <array name="array2">
 
     </array>
 </resources>
